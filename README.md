@@ -1,6 +1,6 @@
 
 <div align="center"><h1> Django Login  </h1> </div>
-<div align="center"> In this repo, I will created Django login project app. </div>
+<div align="center"> In this repo, I created Django login project app. </div>
 
 
 Usage
